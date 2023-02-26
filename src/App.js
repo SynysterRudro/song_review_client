@@ -5,7 +5,7 @@ import { router } from './Routes/Routes/Router';
 
 function App() {
   return (
-    <div>
+    <div className='px-8'>
       <RouterProvider router={router}>
 
       </RouterProvider>
