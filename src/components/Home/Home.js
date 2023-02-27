@@ -5,7 +5,7 @@ const Home = () => {
 
     const myStyle = {
         backgroundImage:
-            ` linear-gradient(rgba(180,30 ,25, 50), rgba(0, 0, 0, 0.5)),url(${banner})`,
+            ` linear-gradient(rgba(10,30 ,25, 50), rgba(0, 0, 0, 0.5)),url(${banner})`,
         height: '80vh',
 
         backgroundSize: 'cover',
